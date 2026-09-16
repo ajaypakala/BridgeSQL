@@ -1,4 +1,4 @@
-APP_NAME = "QueryGPT"
+APP_NAME = "BridgeSQL"
 
 APP_VERSION = "2.0"
 
