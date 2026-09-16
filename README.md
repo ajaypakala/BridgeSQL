@@ -261,4 +261,5 @@ This project is released under the MIT License.
 
 # App link
 
-https://querygpt-ajaypakala.streamlit.app/
+https://bridgesql-ajay.streamlit.app/
+
