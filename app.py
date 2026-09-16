@@ -1,6 +1,6 @@
 """
 =========================================================
-QueryGPT v2.0
+BridgeSQL v2.0
 Universal AI Database Analyst
 =========================================================
 """
@@ -52,7 +52,7 @@ from utils.helpers import (
 
 st.set_page_config(
 
-    page_title="QueryGPT",
+    page_title="BridgeSQL",
 
     page_icon="🗄️",
 
@@ -88,7 +88,7 @@ if "uploaded_database" not in st.session_state:
 # TITLE
 # =====================================================
 
-st.title("🗄️ QueryGPT")
+st.title("🗄️ BridgeSQL")
 
 st.caption(
     "Universal AI Database Analyst"
@@ -681,7 +681,7 @@ st.sidebar.divider()
 
 st.sidebar.info(
 """
-### QueryGPT v2.0
+### BridgeSQL v2.0
 
 Universal AI Database Analyst
 
@@ -710,5 +710,5 @@ Features
 st.divider()
 
 st.caption(
-    "QueryGPT v2.0 | Universal AI Database Analyst | Powered by Gemini 2.5 Flash"
+    "BridgeSQL v2.0 | Universal AI Database Analyst | Powered by Gemini 2.5 Flash"
 )
