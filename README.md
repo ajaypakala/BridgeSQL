@@ -56,35 +56,27 @@ Download CSV / PDF
 
 ```
 QueryGPT/
-
-│── app.py
-│── config.py
-│── requirements.txt
-│── README.md
-│── .gitignore
-│── .env.example
-
-├── ai/
-│   └── ai_service.py
-
-├── database/
-│   ├── uploader.py
-│   ├── connection.py
-│   ├── schema.py
-│   ├── database_info.py
-│   └── query_executor.py
-
-├── visualization/
-│   └── charts.py
-
-├── reports/
-│   └── pdf_report.py
-
-├── utils/
-│   └── helpers.py
-
-├── uploads/
-
+          │── app.py
+          │── config.py
+          │── requirements.txt
+          │── README.md
+          │── .gitignore
+          │── .env.example
+          ├── ai/
+          │   └── ai_service.py
+          ├── database/
+          │   ├── uploader.py
+          │   ├── connection.py
+          │   ├── schema.py
+          │   ├── database_info.py
+          │   └── query_executor.py
+          ├── visualization/
+          │   └── charts.py
+          ├── reports/
+          │   └── pdf_report.py
+          ├── utils/
+          │   └── helpers.py
+          ├── uploads/
 ```
 
 ---
